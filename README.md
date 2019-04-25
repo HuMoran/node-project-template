@@ -25,9 +25,10 @@ npm install -g nrm
 nrm use taobao
 ```
 
-## 安装commitizen和conventional-changelog
+## 安装commitizen和conventional-changelog 
 ```
-npm install -g commitizen conventional-changelog
+npm install -g commitizen conventional-changelog conventional-changelog-cli
+
 ```
 
 ## 下载node-project-template仓库代码到本地
