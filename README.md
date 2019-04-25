@@ -27,7 +27,7 @@ nrm use taobao
 
 ## 安装commitizen和conventional-changelog 
 ```
-npm install -g commitizen conventional-changelog conventional-changelog-cli
+npm install -g commitizen conventional-changelog-cli
 
 ```
 
